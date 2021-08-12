@@ -34,6 +34,7 @@
   <img align="left" alt="Thiago-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="left" alt="Thiago-Linux" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
   <img align="left" alt="Thiago-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="left" alt="Thiago-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   
   ![Snake animation](https://github.com/ThiagoA20/ThiagoA20/blob/output/github-contribution-grid-snake.svg)
 </div>
