@@ -2,14 +2,14 @@
 ### Hi there, I'm Thiago 👋
 
 - 💻 I’m currently working on freelance/personal projects<br>
-- 📚 I’m currently learning C++ and React Native<br>
+- 📚 I’m currently learning web3 and neural networks<br>
 - 🙂 Pronouns: He/Him
 
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoA20&layout=compact&langs_count=7&theme=dark"/><br>
 ### Olá, Eu sou Thiago 👋
 
 - 💻 Atualmente trabalhando com freelances/projetos pessoais<br>
-- 📚 Atualmente aprendendo C++ e React native<br>
+- 📚 Atualmente aprendendo web3 e redes neurais<br>
 - 🙂 Pronomes: Ele/Dele
 
 <div style="display: flex; flex-direction: column;>
@@ -37,8 +37,9 @@
     <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </p>
   <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-  ![Snake animation](https://github.com/ThiagoA20/ThiagoA20/blob/output/github-contribution-grid-snake.svg)
 </div>
+<div>
+  ![Snake animation](https://github.com/ThiagoA20/ThiagoA20/blob/output/github-contribution-grid-snake.svg)
+</div
 
 
