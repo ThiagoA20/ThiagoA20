@@ -1,4 +1,4 @@
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=ThiagoA20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
+<img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=ThiagoA20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
 ### Hi there, I'm Thiago 👋
 
 - 💻 I’m currently working on freelance/personal projects<br>
@@ -33,13 +33,11 @@
   <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
-  <p>
-    <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  </p>
+  <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
   <img height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-<div>
+
   ![Snake animation](https://github.com/ThiagoA20/ThiagoA20/blob/output/github-contribution-grid-snake.svg)
-</div
+</div>
 
 
