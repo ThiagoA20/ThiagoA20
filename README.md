@@ -2,15 +2,13 @@
 ### Hi there, I'm Thiago 👋
 
 - 💻 I’m currently working on freelance/personal projects<br>
-- 📚 I’m currently learning web3 and neural networks<br>
-- 🙂 Pronouns: He/Him
+- 📚 I’m currently studying machine learning, computer vision and reverse engineering<br>
 
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoA20&layout=compact&langs_count=7&theme=dark"/><br>
 ### Olá, Eu sou Thiago 👋
 
 - 💻 Atualmente trabalhando com freelances/projetos pessoais<br>
-- 📚 Atualmente aprendendo web3 e redes neurais<br>
-- 🙂 Pronomes: Ele/Dele
+- 📚 Atualmente estudando aprendizado de máquina, visão computacional e engenharia reversa<br>
 
 <div style="display: flex; flex-direction: column;>
   <a href="https://github.com/ThiagoA20">
